@@ -1,11 +1,9 @@
 # Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection
 
 This repository is the code for Frustum ConvNet with aiMotive dataset.
-<div><video controls src="frustum-convnet-viz.mp4"  muted autoplay loop playsinline preload="auto"></video></div>
-
-
-
-
+<div align="center">
+<video controls src="https://github.com/R2D2-like/frustum-convnet_aiMotive/assets/103891981/ca31d379-2c6b-4d66-a489-7db52a1a19a6" muted autoplay loop playsinline preload="auto"></video>
+</div>
 
 ## Citation
 
@@ -26,9 +24,11 @@ The citation for the original paper (IROS 2019 paper [[arXiv]](https://arxiv.org
 
 You can create the envirionment with docker.
 
-We tested it on
-- Ubuntu 22.04
-- RTX 3060
+- Environment
+  - Ubuntu 22.04
+  - CUDA 11.7
+  - pytorch==1.13.0+cu117
+  - RTX 3060
 
 ### Clone the repository and build docker 
 
