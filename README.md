@@ -1,9 +1,8 @@
 # Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection
 
 This repository is the code for Frustum ConvNet with aiMotive dataset.
-<div align="center">
-<video controls src="https://github.com/R2D2-like/frustum-convnet_aiMotive/assets/103891981/ca31d379-2c6b-4d66-a489-7db52a1a19a6" muted autoplay loop playsinline preload="auto"></video>
-</div>
+
+![frustum-convnet-viz](https://github.com/R2D2-like/frustum-convnet_aiMotive/assets/103891981/3f8f895c-6de8-436f-9c37-42ddf88a091d)
 
 ## Citation
 
