@@ -135,7 +135,7 @@ pretrained_models/*/*/*/*.pickle
 ops/pybind11/tmp/
 
 # save directory
-output*
+# output*
 
 # aimotive data
 aimotive/data/*
