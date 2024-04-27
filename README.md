@@ -67,6 +67,14 @@ python3 aimotive/adapter.py
 python3 kitti/spliter.py
 ```
 
+## Download pre-trained model on aiMotive
+If you don't install dvc, run `pip install dvc[gdrive]`.
+
+```
+cd frustum-convnet_aiMotive
+dvc pull
+```
+
 ## Training and visualization
 
 ### Training
